@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 rs.close();
 out.close();
 out.close();
