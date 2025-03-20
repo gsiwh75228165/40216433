@@ -1,4 +1,5 @@
 ps.close();
+ps.close();
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 // error processing code
