@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 // do the thing you do
 out.write(”aString”);
 Connection con;
