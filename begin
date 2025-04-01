@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 con=DriverManager.getConnection(url, userName, password);
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 public void fetch() throws SQLException, IOException
